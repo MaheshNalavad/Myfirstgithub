@@ -1,0 +1,20 @@
+.test-row{
+    display: flex;
+    margin-top: 20px;
+}
+.testflex{
+height: 100px;
+width: 50%;
+background-color: red;
+text-align: center;
+font-size: 14px;
+padding-top: 50px;
+}
+.testflex1{
+height: 100px;
+width: 50%;
+background-color:aqua;
+text-align: center;
+font-size: 14px;
+padding-top: 30px;
+}

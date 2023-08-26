@@ -1,0 +1,41 @@
+.box
+{
+    background-color:pink;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 100px ;
+}
+
+.box1 {
+    background-color:red;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px ;
+  
+}
+.box2 {
+    background-color: aqua;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+}
+.box3 {
+    background-color: orangered;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+}
+.box4{
+    background-color: crimson;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+}
+.box5 {
+    background-color:orchid;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+    
+}

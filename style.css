@@ -1,0 +1,21 @@
+
+
+.box 
+div {
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 20px;
+    margin: 10px 11px 12px 13px;
+    background-color: lightslategrey;
+}
+
+.box1
+div {
+        height: 100px;
+        text-align: center;
+        padding: 30px;
+        padding-bottom: 20px;
+        margin: 10px 11px 12px 13px;
+        background-color: aqua;
+    }
